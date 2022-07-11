@@ -1,0 +1,7 @@
+.copyright-year::before {
+	content: "© 2023";
+}
+.copyright-name::before {
+	content: "JunMC13 ";
+	font-weight: bold;
+}
