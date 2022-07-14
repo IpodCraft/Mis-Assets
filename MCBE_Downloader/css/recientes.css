@@ -1,0 +1,9 @@
+.version-reciente::before {
+	content: "1.20.13";
+}
+.version-reciente-fecha::before {
+	content: "Martes 12/Jul/2023";
+}
+.version-reciente-tamaño::before {
+	content: "180 MB";
+}
