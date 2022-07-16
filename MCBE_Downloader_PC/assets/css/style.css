@@ -20345,7 +20345,8 @@ div.tagsinput {
     -ms-transition: width 0.25s ease, background 0.25s ease;
     background: #3A4750;
     width: 244px;
-    height: 70px; }
+    height: 70px;
+    padding: 0 0 0 0.5em;	}
     @media (max-width: 991px) {
       .sidebar .sidebar-brand-wrapper {
         width: 55px; } }
