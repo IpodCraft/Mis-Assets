@@ -14150,3 +14150,7 @@ html body .waves-notransition {
 	padding: 10px;
 	text-align: center;
 }
+
+.btn-espacio {
+   padding: 0 0.7em 0 0.7em;
+}
